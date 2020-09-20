@@ -18,7 +18,7 @@ Duração: 2 meses - Carga Horária: 148 horas
 4. [Vue](https://github.com/eduardodsr/Desenvolvedor-Front-End//tree/master/Vue)
 5. Desafio Final
 
-## Objetivo Principal:
+## Objetivo Principal: 🎯
 
 - Apresentar conceitos fundamentais sobre o desenvolvimento Front End e orientar o(a) aluno(a) a praticar codificação utilizando as 3 principais ferramentas de desenvolvimento Front End do mercado.
 
