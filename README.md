@@ -69,20 +69,17 @@ https://github.com/eduardodsr/Desenvolvedor-Front-End/
 
 * Desafio Final. Conclusão da aplicação final.  :x:
 
-
 **Duração: 16 horas**
 
-### Repository:
 
-<https://www.igti.com.br/custom/desenvolvedor-front-end/>
-
-### Informações sobre Bootcamp:
+### LINKS - Informações sobre Bootcamp:
 
 <https://www.igti.com.br/custom/desenvolvedor-front-end/>
 
 <https://www.igti.com.br/custom/bootcamps-gratuitos/>
 
-### Contato:
+
+### CONTATO:
 
 EDUARDO DA SILVA RODRIGUES
 eduardodsr@gmail.com
