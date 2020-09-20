@@ -19,22 +19,19 @@ https://github.com/eduardodsr/Desenvolvedor-Front-End/
 ## Bootcamp Programador de Software Iniciante
 
  <p align="center">
-  <img src=https://i.imgur.com/sUbFRTU.png?raw=true" alt="imagem" width="600px" />
- </p>
-
-## Ferramentas e Técnicas:
-
- <p align="center">
-  <img src=https://i.imgur.com/3hrde7o.png?raw=true" alt="imagem" width="600px" />
+  <img src=https://i.imgur.com/K3h3LkI.png?raw=true" alt="imagem" width="600px" />
  </p>
                                                                                
-## Cronograma:
+## Cronograma: :calendar:
 
 - Data de início: 10/09/20
+
+- Data de término: 20/11/20
 
 - Carga horária: 148 horas
 
 - Duração: 2 meses
+
 
 ## Módulos | Meu progresso do Bootcamp:
 
