@@ -27,6 +27,14 @@ https://github.com/eduardodsr/Desenvolvedor-Front-End/
  <p align="center">
   <img src=https://i.imgur.com/3hrde7o.png?raw=true" alt="imagem" width="600px" />
  </p>
+                                                                               
+## Cronograma:
+
+- Data de início: 10/09/20
+
+- Carga horária: 148 horas
+
+- Duração: 2 meses
 
 ## Módulos | Meu progresso do Bootcamp:
 
