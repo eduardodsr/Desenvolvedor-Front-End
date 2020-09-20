@@ -1,6 +1,8 @@
 # Desenvolvedor Front End
  
-IGTI - Bootcamp Desenvolvedor Front End
+IGTI - Bootcamp Desenvolvedor Front End.
+
+Seja capaz de criar apps com Angular, React ou Vue.
  
 Duração: 2 meses - Carga Horária: 148 horas 
  
@@ -16,7 +18,14 @@ Duração: 2 meses - Carga Horária: 148 horas
 4. [Vue](https://github.com/eduardodsr/Desenvolvedor-Front-End//tree/master/Vue)
 5. Desafio Final
 
-## Bootcamp Programador de Software Iniciante
+## Objetivo Principal:
+
+- Apresentar conceitos fundamentais sobre o desenvolvimento Front End e orientar o(a) aluno(a) a praticar codificação utilizando as 3 principais ferramentas de desenvolvimento Front End do mercado.
+
+- Objetivos específicos:
+• Aprenda a criar apps com Angular;
+• Aprenda a criar apps com React;
+• Aprenda a criar apps com Vue.
 
  <p align="center">
   <img src=https://i.imgur.com/K3h3LkI.png?raw=true" alt="imagem" width="600px" />
