@@ -53,7 +53,7 @@ Duração: 2 meses - Carga Horária: 148 horas
 
 ### MÓDULO 1 - Fundamentos :green_book:
 
-* Introdução, instalação e configuração de ferramentas. Funcionamento das aplicações web. :x:
+* Introdução, instalação e configuração de ferramentas. Funcionamento das aplicações web. [✔️]
 
 **Duração: 32 horas**
 
