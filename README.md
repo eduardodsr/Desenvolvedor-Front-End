@@ -11,7 +11,7 @@ Seja capaz de criar apps com Angular, React ou Vue.
  
 Duração: 2 meses - Carga Horária: 148 horas 
  
-``` link: ```  https://github.com/eduardodsr/Desenvolvedor-Front-End/
+``` link: ```  https://drive.google.com/file/d/1kIKVR9nx9I_KSEE-I2kREKjf_AjE-1J7/view
 
 
 ## Módulos:
