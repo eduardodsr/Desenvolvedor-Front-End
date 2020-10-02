@@ -4,8 +4,10 @@
 ![GitHub repo size](https://img.shields.io/github/repo-size/eduardodsr/Desenvolvedor-Front-End)
 ![GitHub top language](https://img.shields.io/github/languages/top/eduardodsr/Desenvolvedor-Front-End)
 ![GitHub language count](https://img.shields.io/github/languages/count/eduardodsr/Desenvolvedor-Front-End)
+![Visitor](https://visitor-badge.glitch.me/badge?page_id=eduardodsr.Desenvolvedor-Front-End)
+
  
-<strong> :cloud:  IGTI - DEVELOPMENT - Bootcamp Desenvolvedor Front-End :cloud: </strong>
+## :cloud:  IGTI - DEVELOPMENT - Bootcamp Desenvolvedor Front-End :cloud:
 
 Seja capaz de criar apps com Angular, React ou Vue.
  
