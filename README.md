@@ -69,24 +69,24 @@ Duração: 2 meses - Carga Horária: 148 horas
 
 * Angular, AngularJS x Angular, arquitetura. Criação, manutenção e comunicação entre componentes, módulos, diretivas, pipes, eventos, two-way data-binding. :x:
 
-[Aula 1] - Introdução e Preparação do Ambiente
-[Aula 2] - Typescript
-[Aula 3] - Arquitetura e Estrutura da Aplicação
-[Aula 4] - Componentes e Templates
-[Aula 5] - Desafio Guiado
-[Aula 6] - Diretivas Estruturais
-[Aula 7] - Comunicação Entre Componentes
-[Aula 8] - Estilização de Componentes
-[Aula 9] - Ciclo de Vida de Componentes
-[Aula 10] - Desafio Guiado 2
-[Aula 11] - Pipes
-[Aula 12] - Serviços e Injeção de Dependências
-[Aula 13] - Formulários
-[Aula 14] - Desafio Guiado 3
-[Aula 15] - Roteamento
-[Aula 16] - Comunicação com o Back End
-[Aula 17] - Biblioteca de Componentes- Angular Material
-[Aula 18] - Desafio Guiado 4
+1. Aula 1 - Introdução e Preparação do Ambiente
+2. [Aula 2 - Typescript
+3. [Aula 3 - Arquitetura e Estrutura da Aplicação
+4. [Aula 4 - Componentes e Templates
+5. [Aula 5 - Desafio Guiado
+6. [Aula 6 - Diretivas Estruturais
+7. [Aula 7 - Comunicação Entre Componentes
+8. [Aula 8 - Estilização de Componentes
+9. [Aula 9 - Ciclo de Vida de Componentes
+10. [Aula 10 - Desafio Guiado 2
+11. [Aula 11 - Pipes
+12. [Aula 12 - Serviços e Injeção de Dependências
+13. [Aula 13 - Formulários
+14. [Aula 14 - Desafio Guiado 3
+15. [Aula 15 - Roteamento
+16. [Aula 16 - Comunicação com o Back End
+17. [Aula 17 - Biblioteca de Componentes- Angular Material
+18. [Aula 18 - Desafio Guiado 4
 
 
 **Duração: 32 horas**
