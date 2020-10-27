@@ -35,7 +35,7 @@ Duração: 2 meses - Carga Horária: 148 horas
 * Aprenda a criar apps com Vue.
 
  <p align="center">
-  <img src=https://i.imgur.com/K3h3LkI.png?raw=true" alt="imagem" width="600px" />
+  <img src=https://i.imgur.com/hhukfre.png?raw=true" alt="imagem" width="600px" />
  </p>
                                                                                
 ## Cronograma: :calendar:
