@@ -68,7 +68,7 @@ Duração: 2 meses - Carga Horária: 148 horas
 
 ### MÓDULO 2 - Agular :blue_book:
 
-* Angular, AngularJS x Angular, arquitetura. Criação, manutenção e comunicação entre componentes, módulos, diretivas, pipes, eventos, two-way data-binding. :x:
+* Angular, AngularJS x Angular, arquitetura. Criação, manutenção e comunicação entre componentes, módulos, diretivas, pipes, eventos, two-way data-binding. [✔️]
 
 1. Aula 1 - Introdução e Preparação do Ambiente [✔️]
 2. Aula 2 - Typescript [✔️]
