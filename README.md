@@ -70,45 +70,45 @@ Duração: 2 meses - Carga Horária: 148 horas
 
 * Angular, AngularJS x Angular, arquitetura. Criação, manutenção e comunicação entre componentes, módulos, diretivas, pipes, eventos, two-way data-binding. :x:
 
-1. Aula 1 - Introdução e Preparação do Ambiente
-2. Aula 2 - Typescript
-3. Aula 3 - Arquitetura e Estrutura da Aplicação
-4. Aula 4 - Componentes e Templates
-5. Aula 5 - Desafio Guiado
-6. Aula 6 - Diretivas Estruturais
-7. Aula 7 - Comunicação Entre Componentes
-8. Aula 8 - Estilização de Componentes
-9. Aula 9 - Ciclo de Vida de Componentes
-10. Aula 10 - Desafio Guiado 2
-11. Aula 11 - Pipes
-12. Aula 12 - Serviços e Injeção de Dependências
-13. Aula 13 - Formulários
-14. Aula 14 - Desafio Guiado 3
-15. Aula 15 - Roteamento
-16. Aula 16 - Comunicação com o Back End
-17. Aula 17 - Biblioteca de Componentes- Angular Material
-18. Aula 18 - Desafio Guiado 4
+1. Aula 1 - Introdução e Preparação do Ambiente [✔️]
+2. Aula 2 - Typescript [✔️]
+3. Aula 3 - Arquitetura e Estrutura da Aplicação [✔️]
+4. Aula 4 - Componentes e Templates [✔️]
+5. Aula 5 - Desafio Guiado [✔️]
+6. Aula 6 - Diretivas Estruturais [✔️]
+7. Aula 7 - Comunicação Entre Componentes [✔️]
+8. Aula 8 - Estilização de Componentes [✔️]
+9. Aula 9 - Ciclo de Vida de Componentes [✔️]
+10. Aula 10 - Desafio Guiado 2 [✔️]
+11. Aula 11 - Pipes [✔️]
+12. Aula 12 - Serviços e Injeção de Dependências [✔️]
+13. Aula 13 - Formulários [✔️]
+14. Aula 14 - Desafio Guiado 3 [✔️]
+15. Aula 15 - Roteamento [✔️]
+16. Aula 16 - Comunicação com o Back End [✔️]
+17. Aula 17 - Biblioteca de Componentes- Angular Material [✔️]
+18. Aula 18 - Desafio Guiado 4 [✔️]
 
 **Duração: 32 horas**
 
 
 ### MÓDULO 3 - React :orange_book:
 
-* React, VirtualDOM, arquitetura. Conceitos como Props, state, lifecycle methods, criação, manutenção e comunicação entre Class Components e Functional Components. :x:
+* React, VirtualDOM, arquitetura. Conceitos como Props, state, lifecycle methods, criação, manutenção e comunicação entre Class Components e Functional Components. [✔️]
 
 
 **Duração: 32 horas**
 
 ### MÓDULO 4 - Vue :closed_book:
 
-* Vue, arquitetura, Single File Components. Componentes, diretivas, two-way data-binding, eventos, slots, lifecycle methods. :x:
+* Vue, arquitetura, Single File Components. Componentes, diretivas, two-way data-binding, eventos, slots, lifecycle methods. [✔️]
 
 **Duração: 32 horas**
 
 
 ### DESAFIO FINAL :checkered_flag:
 
-* Desafio Final. Conclusão da aplicação final.  :x:
+* Desafio Final. Conclusão da aplicação final.  [✔️]
 
 **Duração: 16 horas**
 
